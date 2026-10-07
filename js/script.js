@@ -2,7 +2,7 @@
     EFFET MACHINE À ÉCRIRE
 =====================================*/
 
-const text = "Développeur Web Full Stack";
+const text = "Développeur Web";
 const typingElement = document.querySelector(".typing");
 
 let index = 0;
